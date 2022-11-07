@@ -1,5 +1,5 @@
 # 1. SARS-CoV-2 spike protein PTM
-####1. SARS-CoV-2 Spike Protein Post Translational Modification Landscape####
+#### 1. SARS-CoV-2 Spike Protein Post Translational Modification Landscape
    
  ![figure](https://user-images.githubusercontent.com/114552019/200270490-c58cbd01-7f29-4049-a19c-b382572e1ab9.jpg)
  
