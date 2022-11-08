@@ -13,7 +13,7 @@ Figure 1. The workflow of SARS-Cov-2 spike protein PTM landscape construction an
 ### 3. Data Access
 1) The mass spectrometry rawfiles have been deposited in the MassIVE proteomicsdatabase under the accession number PXD023346.
 2) The primary amino acid sequence of the SARS-CoV-2 alpha strain spike-in protein is in the 
-[Data File](/PDB files/).
+[Data File](/PDBfiles/).
 
 
 ### 4. Usage
