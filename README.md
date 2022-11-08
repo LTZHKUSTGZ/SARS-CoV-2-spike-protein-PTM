@@ -29,7 +29,7 @@ The modified primary amino acid sequences of the spike protein by mutagenesis su
 4) **Computational prediction of affinity in spike receptor-binding domain bound to the ACE2 receptor.**<br>
 We predict the binding affinity in biological complexes and identify the specific amino acids interacting between the proteins from each generated 3D structure coordinates
 
-5) **The codes are in the [Data File](/PDBfiles/).
+5) **The codes are in the [Data File](/PDBfiles/).**
 
 
 ### 5. Results
