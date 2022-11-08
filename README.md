@@ -23,5 +23,9 @@ We reanalyzed the 6 LC-MS/MS raw files using Proteome Discoverer 2.4 software ag
 
 2) **In silico site-directed Mutagenesis to derive substituted primary amino acid sequences based on PTM **
 
-rotein rotein 
 Mutagenesis is a popular strategy to mimic protein modifications by replacing a PTM site with another amino acid based on similarities in the structure
+
+3) **Computational structure prediction using Alphafold2**
+The modified primary amino acid sequences of the spike protein by mutagenesis substitution rule were submitted to AlphaFold2 v2.0 to analyze the landscapes and impacts of PTM on the spike protein structure.
+5) **Computational prediction of affinity in spike receptor-binding domain bound to the ACE2 receptor**
+We predict the binding affinity in biological complexes and identify the specific amino acids interacting between the proteins from each generated 3D structure coordinates
