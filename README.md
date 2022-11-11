@@ -12,12 +12,12 @@ Figure 1. The workflow of SARS-Cov-2 spike protein PTM landscape construction an
 
 ### 3. Data Access
 1) The mass spectrometry rawfiles have been deposited in the MassIVE proteomicsdatabase under the accession number PXD023346.
-2) The primary amino acid sequence of the SARS-CoV-2 alpha strain spike-in protein is in the [Data File](/PDBfiles/).
+2) The primary amino acid sequence of the SARS-CoV-2 alpha strain spike-in protein is in the [Data](/data).
 
 
 ### 4. Usage
 1) **Genarate high-resolution quantitative map of spike protein PTMs.** <br>
-We reanalyzed the 6 LC-MS/MS raw files using Proteome Discoverer 2.4 software against the SARS-CoV-2 spike protein sequence 
+We reanalyzed the 6 LC-MS/MS raw files using Proteome Discoverer 2.4 software against the SARS-CoV-2 spike protein sequence. And the PTM files are in the [Results](/Results).
 
 
 2) **In silico site-directed Mutagenesis to derive substituted primary amino acid sequences based on PTM.** <br>
@@ -29,10 +29,10 @@ The modified primary amino acid sequences of the spike protein by mutagenesis su
 4) **Computational prediction of affinity in spike receptor-binding domain bound to the ACE2 receptor.**<br>
 We predict the binding affinity in biological complexes and identify the specific amino acids interacting between the proteins from each generated 3D structure coordinates
 
-5) **The codes are in the [Data File](/PDBfiles/).**
+5) **The codes are in the [Code](/code).**
 
 
 ### 5. Results
 
-1) The PDB files are in the [Results](/PDBfiles/).
+1) The PDB files are in the [Results](/Results/PDBfiles/).
 
