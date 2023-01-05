@@ -15,20 +15,24 @@ Figure 1. The workflow of SARS-Cov-2 spike protein PTM landscape construction an
 
 
 ### 4. Usage
-1) **Genarate high-resolution quantitative map of spike protein PTMs.** <br>
+1) **Construction of the high-resolution quantitative map of spike protein PTMs.** <br>
 We reanalyzed the 6 LC-MS/MS raw files using Proteome Discoverer 2.4 software against the SARS-CoV-2 spike protein sequence. And the PTM files are in the [Results](/Results).
 
 
-2) **In silico site-directed Mutagenesis to derive substituted primary amino acid sequences based on PTM.** <br>
+2) **In silico site-directed mutagenesis to derive substituted amino acid sequences on PTM sites.** <br>
 Mutagenesis is a popular strategy to mimic protein modifications by replacing a PTM site with another amino acid based on similarities in the structure
 
-3) **Computational structure prediction using Alphafold2.**<br>
+3) **Computational prediction of protein structure from amino acid sequences using Alphafold2.**<br>
 The modified primary amino acid sequences of the spike protein by mutagenesis substitution rule were submitted to AlphaFold2 v2.0 to analyze the landscapes and impacts of PTM on the spike protein structure.
 
-4) **Computational prediction of affinity in spike receptor-binding domain bound to the ACE2 receptor.**<br>
+4) **Evaluation of the impact of PTMs by aligning predicted spike protein structures influenced by different PTMs.**<br>
+We comprehensively evaluated the impacts of PTMs on spike protein structure and demonstrated the capability of this method to review key structure differences.
+
+5) **Computational prediction of the interaction affinity between the spike protein receptor-binding domain and host factor receptor.**<br>
 We predict the binding affinity in biological complexes and identify the specific amino acids interacting between the proteins from each generated 3D structure coordinates
 
-5) **The codes are in the [Code](/code).**
+
+6) **The codes are in the [Code](/code).**
 
 
 ### 5. Results
